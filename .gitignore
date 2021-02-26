@@ -51,6 +51,7 @@ Makefile
 # Misc.
 *.log
 
+/Build
 /.vs
 /.vscode
 /CMakeSettings.json
